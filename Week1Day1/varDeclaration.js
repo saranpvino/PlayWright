@@ -13,7 +13,7 @@ let city ="chennai"
 
 city="Bangalore"    //Reassignment is possible
 
-//const is final and fixed one(no redeclare and reassign)
+//const is final and fixed one(no redeclare and no reassign)
 const pan="cmdps0"
 //const pan="cmdps0" // redeclare not possible
 pan="abcd"

@@ -10,7 +10,7 @@ var a=10
 //console.log(b)
 
 //Hoisting means declaration is at top and values assigned later
-//let b //uncomment this means then remove 'let' from line 15
+//let b //if uncomment this line then remove 'let' from line 15
 console.log(b);
 let b=20    //Ref error
 

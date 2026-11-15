@@ -1,6 +1,3 @@
-
-
-
 //Block scoped(let and const)
 let gender = "Female"
 if(gender="Female"){
@@ -33,7 +30,7 @@ console.log("Outside:",num);
 }
 empDetails();
 
-//Global scoped()
+//Global scoped(var,let,const)
 const browserVersion = "Chrome";
 
 function getBrowserVersion() {
